@@ -13,7 +13,9 @@ def first_challenge
     }
   }
 
-  #your code here
+  contacts["jon snow"][:favorite_icecream_flavors][0]
+  contacts["jon snow"][:favorite_icecream_flavors][1]
+  contacts["jon snow"][:favorite_icecream_flavors][2]
 
 
   #remember to return your newly altered contacts hash!
