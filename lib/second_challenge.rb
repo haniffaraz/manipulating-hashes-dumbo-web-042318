@@ -7,7 +7,7 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-  binding.pry
-gorceries.values
+
+groceries.values.flatten
 
 end
