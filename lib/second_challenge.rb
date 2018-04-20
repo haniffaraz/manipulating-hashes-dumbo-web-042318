@@ -8,6 +8,6 @@ def second_challenge
   }
 
   binding.pry
-gorceries.value
+gorceries.values
 
 end
